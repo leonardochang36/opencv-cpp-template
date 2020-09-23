@@ -29,7 +29,7 @@ $ cmake ..
 Build the project:
 
 ```console
-$ make
+$ cmake --build . --config Release
 ```
 
 Run:
